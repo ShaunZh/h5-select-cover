@@ -7,17 +7,15 @@
 1. 如果滚动区的高度小于屏幕的高度，说明需要在底部填充空元素 div 来将页面撑开，产生垂直滚动条，以便将输入框顶上去，这个 div 的高度为弹出框的高度，暂定为 popH，对于这种情况，到这一步即可解决遮挡的问题
 2. 如果滚动区的高度大于屏幕的高度，则需要按照如下流程进行处理：
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2fe64168d13f4a04b539365b3f5422eb~tplv-k3u1fbpfcp-watermark.image?)
+![image.png](https://github.com/ShaunZh/h5-select-cover/blob/main/post-assets/example0.png?)
 
 效果如下：
 
 1. 滚动区小于屏幕高度
-   <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fda6b5778b904a2ba7c724997a2cb141~tplv-k3u1fbpfcp-watermark.image?" width="49%" height="50%"  />
+   <img src="https://github.com/ShaunZh/h5-select-cover/blob/main/post-assets/example1.gif?" width="49%" height="50%"  />
 
 2. 滚动区的高度与屏幕高度相当
-
-<img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5afbe77f7cd34b50ac3f7c6f40b3bdda~tplv-k3u1fbpfcp-watermark.image?" width="49%" height="50%"  />
+   <img src="https://github.com/ShaunZh/h5-select-cover/blob/main/post-assets/example2.git?" width="49%" height="50%"  />
 
 3. 滚动区高度大于屏幕高度
-
-![example3.gif](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dbaa67e8469c43508789633b9b5c6829~tplv-k3u1fbpfcp-watermark.image?)
+   <img src="https://github.com/ShaunZh/h5-select-cover/blob/main/post-assets/example3.git?" width="49%" height="50%"  />
