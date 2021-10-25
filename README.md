@@ -15,7 +15,7 @@
    <img src="https://github.com/ShaunZh/h5-select-cover/blob/main/post-assets/example1.gif?" width="49%" height="50%"  />
 
 2. 滚动区的高度与屏幕高度相当
-   <img src="https://github.com/ShaunZh/h5-select-cover/blob/main/post-assets/example2.git?" width="49%" height="50%"  />
+   <img src="https://github.com/ShaunZh/h5-select-cover/blob/main/post-assets/example2.gif?" width="49%" height="50%"  />
 
 3. 滚动区高度大于屏幕高度
-   <img src="https://github.com/ShaunZh/h5-select-cover/blob/main/post-assets/example3.git?" width="49%" height="50%"  />
+   <img src="https://github.com/ShaunZh/h5-select-cover/blob/main/post-assets/example3.gif?" width="49%" height="50%"  />
